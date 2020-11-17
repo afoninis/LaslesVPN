@@ -1,2 +1,2 @@
-# LaslesVPN Landing
+# LaslesVPN
 LaslesVPN Landing
