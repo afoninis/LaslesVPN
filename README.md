@@ -1,2 +1,2 @@
-# afoninis.github.com
+# LaslesVPN Landing
 LaslesVPN Landing
